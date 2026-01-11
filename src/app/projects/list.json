@@ -37,5 +37,16 @@
 			"Library"
 		],
 		"github": "https://github.com/YYsuni/archive-suni"
+	},
+	{
+		"name": "Excalidraw",
+		"year": 2024,
+		"image": "https://plus.excalidraw.com/images/logo-small.svg",
+		"url": "https://excalidraw.com",
+		"description": "好用的学习画板",
+		"tags": [
+			"画板"
+		],
+		"github": "https://github.com/excalidraw/excalidraw"
 	}
 ]
